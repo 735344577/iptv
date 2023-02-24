@@ -33,11 +33,23 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes", ELEVEN SPORTS 1
 https://br.embedflix.net/p2p/eleven_720p/playlist.m3u8?wmsAuthSign=undefined
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes", ELEVEN SPORTS 1 ALTERNATIVO
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/i5jw49fme.m3u8?s=8YJqzLn31Cc2chm3pCtwbQ&e=1677216869
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes", ELEVEN SPORTS 1 ALTERNATIVO 2
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/i5jw49fme.m3u8?s=HuWSUsi-_YHZQMEFICx-Yg&e=1677216981
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes", ELEVEN SPORTS 2
 https://br.embedflix.net/p2p/eleven2_720p/playlist.m3u8?wmsAuthSign=undefined
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes", ELEVEN SPORTS 2 ALTERNATIVO
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/njr6og.m3u8?s=jtXY14MWfvR-1InWk2nF9Q&e=1677217048
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes", ELEVEN SPORTS 3
 https://br.embedflix.net/p2p/eleven3_720p/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes", ELEVEN SPORTS 3 ALTERNATIVO
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/jok6ha1zufk.m3u8?s=V_mJz_2RJZJvIuXNEPj_NA&e=1677217221
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes", ELEVEN SPORTS 4
 https://br.embedflix.net/p2p/eleven4_720p/playlist.m3u8?wmsAuthSign=undefined
@@ -48,8 +60,23 @@ https://br.embedflix.net/p2p/eleven5_720p/playlist.m3u8?wmsAuthSign=undefined
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes", ELEVEN SPORTS 6
 https://br.embedflix.net/p2p/eleven6_720p/playlist.m3u8?wmsAuthSign=undefined
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes", MEGAPIXXX
-https://live.embedflix.net/p2p/megapix/chunks.m3u8?nimblesessionid=513244&wmsAuthSign=undefined
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-izzuFXwkQIw/X4eWDfB9MXI/AAAAAAAB1K4/flNuoiT_ndggdopR_XDTnsXToLed3PmmwCLcBGAsYHQ/s750/conembol.jpg" group-title="Esportes", CONMEBOL TV 1
+https://br.embedflix.net/p2p/conmeboltv/chunks.m3u8?nimblesessionid=3543773&wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-izzuFXwkQIw/X4eWDfB9MXI/AAAAAAAB1K4/flNuoiT_ndggdopR_XDTnsXToLed3PmmwCLcBGAsYHQ/s750/conembol.jpg" group-title="Esportes", CONMEBOL TV 1 ALTERNATIVO
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/kn3im6.m3u8?s=I4U17bcShc-wAhLAPHsCAQ&e=1677218080
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-izzuFXwkQIw/X4eWDfB9MXI/AAAAAAAB1K4/flNuoiT_ndggdopR_XDTnsXToLed3PmmwCLcBGAsYHQ/s750/conembol.jpg" group-title="Esportes", CONMEBOL TV 2
+https://br.embedflix.net/p2p/conmeboltv2/chunks.m3u8?nimblesessionid=3544559&wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-izzuFXwkQIw/X4eWDfB9MXI/AAAAAAAB1K4/flNuoiT_ndggdopR_XDTnsXToLed3PmmwCLcBGAsYHQ/s750/conembol.jpg" group-title="Esportes", CONMEBOL TV 2 ALTERNATIVO
+https://encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.m3u9.ml/a2/stream/live/conmeboltv2-bk2/__index.m3u8?mu3zAQc9HC3GbwJq=v58E-JDA4A4yBgSKksalkw&3U1G7qaTxrPbalZnEx=1677225524
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-izzuFXwkQIw/X4eWDfB9MXI/AAAAAAAB1K4/flNuoiT_ndggdopR_XDTnsXToLed3PmmwCLcBGAsYHQ/s750/conembol.jpg" group-title="Esportes", CONMEBOL TV 3
+https://br.embedflix.net/p2p/conmeboltv3/chunks.m3u8?nimblesessionid=3544804&wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-izzuFXwkQIw/X4eWDfB9MXI/AAAAAAAB1K4/flNuoiT_ndggdopR_XDTnsXToLed3PmmwCLcBGAsYHQ/s750/conembol.jpg" group-title="Esportes", CONMEBOL TV 4
+https://encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.m3u9.ml/a2/stream/live/conmeboltv4-bk2/__index.m3u8?mu3zAQc9HC3GbwJq=HhLXQmKa3wvHvebFnJDMjQ&3U1G7qaTxrPbalZnEx=1677225666
 
 #EXTINF:-1 tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/card/s3/2022-08/ufc-fight-pass-logo.jpg?itok=M3m2R8Ji" group-title="Esportes", UFC FIGHT PASS
 https://encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.m3u9.ml/a2/hls1/ufcfightpass/_index.m3u8?mu3zAQc9HC3GbwJq=LYKYVLQYPhzlwY0CTnMYHA&3U1G7qaTxrPbalZnEx=1676773067
