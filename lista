@@ -90,6 +90,50 @@ https://br.embedflix.net/p2p/dazn3/playlist.m3u8?wmsAuthSign=undefined
 #EXTINF:-1 tvg-logo="https://canaistop.com/wp-content/uploads/2022/10/dazn-1-espanha-ao-vivo-online-live.fw_.png" group-title="Esportes", DAZN ESPANHA
 https://edge1.zorrohd6.xyz/live/STb0003553b4115ed.m3u8
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="Esportes", AMAZON PRIME VÍDEO 1
+https://live.embedflix.net/p2p/primevideo/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="Esportes", AMAZON PRIME VÍDEO 1 ALTERNATIVO
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/2qybgy.m3u8?s=-RIi_jX0RVq_SSs3boy9dQ&e=1677479369
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="Esportes", AMAZON PRIME VÍDEO 1 ALTERNATIVO 2
+https://live.embedflix.net/p2p/primevideo/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="Esportes", AMAZON PRIME VÍDEO 2
+https://live.embedflix.net/p2p/primevideo2/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="Esportes", AMAZON PRIME VÍDEO 3 
+https://live.embedflix.net/p2p/primevideo3/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png" group-title="Esportes", AMAZON PRIME VÍDEO 3 ALTERNATIVO
+https://4jgcsb28qdrh.cdnexpress42.net:8443/hls/sryxqtm3.m3u8?s=ysA5AyeFdKzA_3hJPtGJuw&e=1677479755
+
+#EXTINF:-1 tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="Esportes", HBO MAX 1
+https://live.embedflix.net/p2p/hbomax/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="Esportes", HBO MAX 2
+https://live.embedflix.net/p2p/hbomax2/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="Esportes", HBO MAX 3
+https://live.embedflix.net/p2p/hbomax3/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="Esportes", HBO MAX 4
+https://live.embedflix.net/p2p/hbomax4/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://hbomax-images.warnermediacdn.com/2020-05/square%20social%20logo%20400%20x%20400_0.png" group-title="Esportes", HBO MAX 5
+https://live.embedflix.net/p2p/hbomax5/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="Esportes", STAR PLUS 1
+https://br.embedflix.net/p2p/star1/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="Esportes", STAR PLUS 2
+https://br.embedflix.net/p2p/star2/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="Esportes", STAR PLUS 3
+https://br.embedflix.net/p2p/star3/playlist.m3u8?wmsAuthSign=undefined
+
+#EXTINF:-1 tvg-logo="https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png" group-title="Esportes", STAR PLUS 4
+https://live.embedflix.net/p2p/star4/playlist.m3u8?wmsAuthSign=undefined
 
 #EXTINF:-1 tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/card/s3/2022-08/ufc-fight-pass-logo.jpg?itok=M3m2R8Ji" group-title="Esportes", UFC FIGHT PASS
 https://encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.m3u9.ml/a2/hls1/ufcfightpass/_index.m3u8?mu3zAQc9HC3GbwJq=LYKYVLQYPhzlwY0CTnMYHA&3U1G7qaTxrPbalZnEx=1676773067
