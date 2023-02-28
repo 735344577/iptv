@@ -138,7 +138,8 @@ https://live.embedflix.net/p2p/star4/playlist.m3u8?wmsAuthSign=undefined
 #EXTINF:-1 tvg-logo="https://dmxg5wxfqgb4u.cloudfront.net/styles/card/s3/2022-08/ufc-fight-pass-logo.jpg?itok=M3m2R8Ji" group-title="Esportes", UFC FIGHT PASS
 https://encrypted-encrypted-encrypted-encrypted-encrypted-encrypted.m3u9.ml/a2/hls1/ufcfightpass/_index.m3u8?mu3zAQc9HC3GbwJq=LYKYVLQYPhzlwY0CTnMYHA&3U1G7qaTxrPbalZnEx=1676773067
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3xd_vRlbmKJflfApmkxx9IrQJ76GR2qWRZw&usqp=CAU" group-title="Esportes", SKY SPORTS LATINO
+http://kaoztv.com:80/play/vAWBiFlolj1G186tUZVI0Fv17djU2wH_6_zd1HxMLx8/ts
 
 
 
